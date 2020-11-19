@@ -4,7 +4,7 @@ Encoder, decoder, and deMux: Implementation of Decoder, Encoder, and demultiplex
 
 Johnson Counter: Using D flip-flop, and multiple flip-flops to implement Johnson Counter.
 
-Counters: Implementation of a binary counter to display bouncing ball.
+Display Bouncing Ball: Implementation of a binary counter to display bouncing ball.
 
 Digital Combination Lock: Utilizing a state machine to generate a digital combination lock. When the incorrect password has been entered, it displays customized messages. 
 
