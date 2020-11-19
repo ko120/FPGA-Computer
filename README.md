@@ -1,3 +1,4 @@
+FPGA Designs 
 
 Encoder, decoder, and deMux: Implementation of Decoder, Encoder, and demultiplexers.
 
